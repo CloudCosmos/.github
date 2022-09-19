@@ -1,12 +1,16 @@
-## Hi there 👋
+# CloudCosmos
 
-<!--
+CloudCosmos is a team of high-calibre professionals with demonstrated track record of delivering high quality software.
 
-**Here are some ideas to get you started:**
+# Open-Source projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[NewsFetch](https://github.com/newsfetch/newsfetch) - News: Processed, Structured, and Ready to Use
+
+[Textalytics Open Source](https://github.com/textalytics) - Core Textalytics schema, and adapters to various cloud NLP APIs
+
+# Products
+
+[Textalytics](https://textalytics.tech) - ML/AI Powered API-First Text Analytics
+
+[Shukra.AI](https://shukra.ai) - Enrichments repository for content from open datasets
+
