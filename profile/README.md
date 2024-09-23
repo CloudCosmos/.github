@@ -6,6 +6,6 @@ CloudCosmos is a team of high-calibre professionals with demonstrated track reco
 
 [NewsFetch](https://github.com/newsfetch/newsfetch) - News: Processed, Structured, and Ready to Use
 
-[Textalytics Open Source](https://github.com/textalytics) - Core Textalytics schema, and adapters to various cloud NLP APIs
+[Textalytics](https://github.com/textalytics) - Core Textalytics schema, and adapters to various cloud NLP APIs
 
 
